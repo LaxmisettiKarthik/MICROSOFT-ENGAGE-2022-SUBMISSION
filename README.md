@@ -11,7 +11,15 @@ Github repository link for Androd App code {software used : Android Studio} (dep
 
 https://github.com/LaxmisettiKarthik/KaareeMovieRecommender
 
+# Description of my MICROSOFT ENGAGE 2022 PROJECT: 
 
+My Android App has two Key Features 
+1) Recommender
+2)Movie Suggester
+
+Let us look at them in detail now...
+
+# 1)RECOMMENDER
 
 # movie_recommendation_engine
 This Python Project is regarding the Algorithms and the sub-topic covers the [Movie Recommender] which is built based on Machine Learning and Deep Learning. My project helps the users by giving the Movie predictions based on their Taste and choice. This project is built with algorithms that allow the ML model to predict the Movies in 3 different ways which are as follows:
@@ -129,7 +137,7 @@ Being deployed in Streamlit it can also allow us to change a few extra aspects a
 
 
 
-# MOVIE SUGGESTER {Add-on Featutre(x-factor)}
+# 2) MOVIE SUGGESTER {Add-on Featutre(x-factor)}
 
 Keeping in mind about my App users and Microsoft Project Judges, I have also added one more excellent feature to my Android app with totally another ML model Algorithm.
                In this Feature have created a new Movie Recommender which suggests movies by giving any KEYWORD, MOVIE NAME, YEAR, or Any things that are about the movie as input my ML model fetches Results and select the movie which is similar to that of keywords along with that it also suggests few movies based on the selected movies by using MATRIX FACTORIZATION and KMEANS CLUSTERING Algorithms.
