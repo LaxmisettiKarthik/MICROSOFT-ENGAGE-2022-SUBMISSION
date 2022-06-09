@@ -12,7 +12,7 @@ Github repository link for Androd App code {software used : Android Studio} (dep
 
 https://github.com/LaxmisettiKarthik/KaareeMovieRecommender
 
-*Drive link with Android APP (APK file) and Datasets and other used Resources for project
+Drive link with Android APP (APK file) and Datasets and other used Resources for project
 
 https://drive.google.com/drive/folders/1WSD_jfhi62B_KnXcId7l2PdHKHu0GQCF?usp=sharing
 
